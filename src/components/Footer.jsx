@@ -22,10 +22,10 @@ function Footer() {
             </p>
 
             <div className="social-icons">
-              <a href="#" className="fb"><FaFacebookF /></a>
-              <a href="#" className="tw"><FaTwitter /></a>
-              <a href="#" className="gp"><FaGooglePlusG /></a>
-              <a href="#" className="vi"><FaVine /></a>
+              <a href="/" className="fb"><FaFacebookF /></a>
+              <a href="/" className="tw"><FaTwitter /></a>
+              <a href="/" className="gp"><FaGooglePlusG /></a>
+              <a href="/" className="vi"><FaVine /></a>
             </div>
           </Col>
 
