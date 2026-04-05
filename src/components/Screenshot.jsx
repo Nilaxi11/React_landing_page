@@ -18,23 +18,23 @@ function Screenshot() {
         modules={[Pagination]}
       >
         <SwiperSlide>
-          <img src="https://sapp-react.theme-land.com/img/screenshot_1.jpg" className="img-fluid screenshot-img" />
+          <img src="https://sapp-react.theme-land.com/img/screenshot_1.jpg" className="img-fluid screenshot-img" alt='screenshot img'/>
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src="https://sapp-react.theme-land.com/img/screenshot_2.jpg" className="img-fluid screenshot-img" />
+          <img src="https://sapp-react.theme-land.com/img/screenshot_2.jpg" className="img-fluid screenshot-img" alt='screenshot img'/>
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src="https://sapp-react.theme-land.com/img/screenshot_3.jpg" className="img-fluid screenshot-img" />
+          <img src="https://sapp-react.theme-land.com/img/screenshot_3.jpg" className="img-fluid screenshot-img" alt='screenshot img'/>
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src="https://sapp-react.theme-land.com/img/screenshot_4.jpg" className="img-fluid screenshot-img" />
+          <img src="https://sapp-react.theme-land.com/img/screenshot_4.jpg" className="img-fluid screenshot-img" alt='screenshot img'/>
         </SwiperSlide>
 
         <SwiperSlide>
-          <img src="https://sapp-react.theme-land.com/img/screenshot_5.jpg" className="img-fluid screenshot-img" />
+          <img src="https://sapp-react.theme-land.com/img/screenshot_5.jpg" className="img-fluid screenshot-img" alt='screenshot img'/>
         </SwiperSlide>
 
       </Swiper>
